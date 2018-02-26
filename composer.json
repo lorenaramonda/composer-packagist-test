@@ -2,7 +2,6 @@
     "name": "loreena/packagist-test",
     "type": "library",
     "description": "It's just a try. Sorry Yoda.",
-    "keywords": ["log","logging"],
     "homepage": "https://github.com/lorenaramonda/composer-packagist-test.git",
     "license": "MIT",
     "authors": [
